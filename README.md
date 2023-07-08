@@ -152,7 +152,7 @@ The configurations used to accomplish this include:
 
 <b>Opening a Web Browser - Verifies Firwall Rules are Working</b>
 
-![Launching Web Browser to Specified] Site(https://i.imgur.com/xsMIV07.png)
+![Launching Web Browser to Specified Site](https://i.imgur.com/xsMIV07.png)
 
 
 ## Conclusion
