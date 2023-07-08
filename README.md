@@ -65,3 +65,39 @@ The configurations used to accomplish this include:
 <b>Firewall Creation</b>
 
 ![Firewall 1](https://i.imgur.com/T8p9iEs.png)
+
+<b>Firewall 2</b>
+
+![Firewall 2](https://i.imgur.com/5Dx67yQ.png)
+
+<b>List of Network Resources</b>
+![Network Resources Deployed](https://i.imgur.com/HRc4hEg.png)
+
+## Part 3: Create a Default Route
+
+In this phase, a default route is configured for one of the network subnet workloads. This will direct the outbound traffic through the firewall. This is accomplished by linking the firewall route and subnet. 
+
+The configurations used to accomplish this include: 
+
+-	Default Routes
+-	Firewall Route Configuration
+
+<b>Route Table</b>
+
+![Route Table 2]( https://i.imgur.com/pbo3IZS.png)
+
+<b>Configuring Firewall Route</b>
+
+![Route Table 2]( https://i.imgur.com/RNDNKVq.png)
+
+## Part 4: Configuring Application and Network Rule
+
+In this phase, an application rule is applied to control the outbound traffic to a specific destination, and a network rule is applied to permits outbound access to two IP addresses on DNS (port 53).
+
+The configurations used to accomplish this include: 
+
+-	Application Rule
+
+![Application Rule](https://i.imgur.com/yZWk0IK.png)
+
+
