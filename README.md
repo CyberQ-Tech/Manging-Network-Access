@@ -134,10 +134,26 @@ The configurations used to accomplish this include:
 
 ![RDP]( https://i.imgur.com/wJN5vfj.png)
 
-<b>Launching RDP File</b>
+<b>Launching RDP File 1</b>
 
 ![Launching RDP File from Host 1]( https://i.imgur.com/HxPfvxm.png)
 
+<b>Launching RDP File 2</b>
 
+![Launching RDP File from Host 2]( https://i.imgur.com/6Wy7ETs.png)
 
+<b>Windows Server Manager</b>
 
+![Windows Server Manager]( https://i.imgur.com/0l2in0j.png)
+
+<b>IE Enhanced Security Configuration</b>
+
+![IE Enhanced Security Configuration]( https://i.imgur.com/vrsqL01.png)
+
+<b>Opening a Web Browser</b>
+
+![Launching Web Browser to Specified Site(https://i.imgur.com/xsMIV07.png)
+
+## Conclusion
+
+This project showcased how implementing a firewall with custom routes can help manage network traffic. Restricting ingress and egress traffic over network can limit false-positives as well as help prevent additional attack types via ACLs.  
