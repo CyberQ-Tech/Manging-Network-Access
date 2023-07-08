@@ -98,6 +98,44 @@ The configurations used to accomplish this include:
 
 -	Application Rule
 
+<b>Application Rule</b>
 ![Application Rule](https://i.imgur.com/yZWk0IK.png)
+
+<b>Network Rule 1</b>
+![Network Rule 1](https://i.imgur.com/YyveoW4.png)
+
+<b>Network Rule 2</b>
+![Network Rule 2](https://i.imgur.com/f5iz1fP.png)
+
+
+## Part 5: Configuring Virtual Machine DNS Servers
+
+In this phase, the DNS servers are configured for primary and secondary DNS access to the VM. The DNS servers are referenced via the network rule IPs.
+
+The configurations used to accomplish this include: 
+
+-	DNS Server Configuration
+
+<b>DNS Server</b>
+![DNS Servers]( https://i.imgur.com/OLhNxvF.png)
+
+
+## Part 6: Testing the Firewall Using RDP
+
+In this phase, the firewall rules and network routes are tested using RDP. The RDP file is downloaded onto the host machine and credentials are used to access the VM created during deployment. 
+
+The route rules are tested by editing the IE Enhanced Security Configuration on the server and launching a web browser in the VM and attempting to access a website. The firewall rules will only permit access to specified sites.
+
+The configurations used to accomplish this include: 
+
+-	RDP
+
+<b>RDP</b>
+![RDP]( https://i.imgur.com/wJN5vfj.png)
+
+<b>Launching RDP File</b>
+![Launching RDP File from Host 1]( https://i.imgur.com/HxPfvxm.png)
+
+
 
 
