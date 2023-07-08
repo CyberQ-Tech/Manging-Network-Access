@@ -41,7 +41,24 @@ The configurations used to accomplish this include:
 -	ARM Template (written in JSON)
 -	Created Resource Group
 <br/>
-
 <b>Uploading Custom ARM Template</b>
 
 ![Adding Template](https://i.imgur.com/QSaBYBB.png)
+
+![ARM Template](https://i.imgur.com/2Kktm4N.png)
+
+<b>Creating Resource Group</b>
+![Resource Group](https://i.imgur.com/CqGrf5y.png)
+
+## Part 2: Creating the Azure Firewall
+
+In this phase, Azure Firewall used to manage network traffic is deployed within the resource group. In addition, the VM and Private IP are configured and placed into a region.
+
+The configurations used to accomplish this include: 
+
+-	Azure Firewall
+-	Virtual Machine
+
+<b>Firewall Creation</b>
+
+![Firewall 1](https://i.imgur.com/T8p9iEs.png)
