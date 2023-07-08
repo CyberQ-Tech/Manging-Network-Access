@@ -157,4 +157,4 @@ The configurations used to accomplish this include:
 
 ## Conclusion
 
-This project showcased how implementing a firewall with custom routes can help manage network traffic. Restricting ingress and egress traffic over network can limit false-positives as well as help prevent additional attack types via ACLs.  
+This project showcased how implementing a firewall with custom routes can help manage network traffic. Restricting ingress and egress traffic over a network can limit false-positives as well as help prevent additional attack types via ACLs.  
