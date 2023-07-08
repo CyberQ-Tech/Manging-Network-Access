@@ -150,9 +150,9 @@ The configurations used to accomplish this include:
 
 ![IE Enhanced Security Configuration]( https://i.imgur.com/vrsqL01.png)
 
-<b>Opening a Web Browser</b>
+<b>Opening a Web Browser - Verifies Firwall Rules are Working</b>
 
-(https://i.imgur.com/xsMIV07.png)
+![Launching Web Browser to Specified] Site(https://i.imgur.com/xsMIV07.png)
 
 
 ## Conclusion
