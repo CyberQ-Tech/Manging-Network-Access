@@ -131,9 +131,11 @@ The configurations used to accomplish this include:
 -	RDP
 
 <b>RDP</b>
+
 ![RDP]( https://i.imgur.com/wJN5vfj.png)
 
 <b>Launching RDP File</b>
+
 ![Launching RDP File from Host 1]( https://i.imgur.com/HxPfvxm.png)
 
 
